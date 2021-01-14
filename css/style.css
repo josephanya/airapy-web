@@ -103,6 +103,11 @@ a:link {
     color: #0F2D5A;
 }
 
+.button{
+    display: block;
+    width: 100%;
+}
+
 .d-block{
     margin-bottom: 45px;
 }
